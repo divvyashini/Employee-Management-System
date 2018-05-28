@@ -1,0 +1,20 @@
+C:\Users\Divvyashini\Desktop\employee\employee\bin\Debug\employee.exe.config
+C:\Users\Divvyashini\Desktop\employee\employee\bin\Debug\employee.exe
+C:\Users\Divvyashini\Desktop\employee\employee\bin\Debug\employee.pdb
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.csprojResolveAssemblyReference.cache
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.directorleaverequestapproval.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.Form1.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.LeaveRequest.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.mianform.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.Properties.Resources.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.RegisterEmployee.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.Salary.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.SearchUpdateDeleteEmployee.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.ViewEmployee.resources
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.csproj.GenerateResource.Cache
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.exe
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.pdb
+C:\Users\Divvyashini\Desktop\employee\employee\obj\Debug\employee.ViewApprovals.resources
+C:\Users\Divvyashini\Desktop\Bedfordshire\SPPM FINAL EMPLOYEE\employee\employee\bin\Debug\employee.exe.config
+C:\Users\Divvyashini\Desktop\Bedfordshire\SPPM FINAL EMPLOYEE\employee\employee\obj\Debug\employee.exe
+C:\Users\Divvyashini\Desktop\Bedfordshire\SPPM FINAL EMPLOYEE\employee\employee\obj\Debug\employee.pdb
